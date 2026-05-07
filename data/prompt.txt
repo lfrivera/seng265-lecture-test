@@ -1,0 +1,3 @@
+Update index.html, styles.css, and scripts.js by generate a complete webpage for SENG 265 Summer 2026.
+Make the website visually appealing and informative for students by using modern components from HTML, CSS, and JavaScript that can run in a GitHub pages-hosted website.
+The content to be added to the website can be found on data/course-description.txt.
