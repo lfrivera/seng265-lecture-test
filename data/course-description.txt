@@ -1,0 +1,235 @@
+Summer 2026 SENG 265: Software Development Methods (Units: 1.5)
+Territory Acknowledgement
+We acknowledge and respect the Lək̓ʷəŋən (Songhees and Xʷsepsəm/Esquimalt) Peoples on whose territory the university stands, and the Lək̓ʷəŋən
+and W̱SÁNEĆ Peoples whose historical relationships with the land continue to this day.
+Key Dates and Schedules
+Section CRN Schedule Location Class Start Class End Days of Weeks* Hours of Day Instructor
+A01 30802 Lecture CLE C112 2026-05-06 2026-08-17 TWF 10:30-11:20 Hausi Muller
+A01 30802 Lecture ECS 108 2026-05-06 2026-08-17 TWF 10:30-11:20 Hausi Muller
+A02 30803 Lecture CLE C112 2026-05-06 2026-08-17 TWF 10:30-11:20 Hausi Muller
+A02 30803 Lecture ECS 108 2026-05-06 2026-08-17 TWF 10:30-11:20 Hausi Muller
+B02 30805 Lab ELW B238 2026-05-06 2026-08-17 R 14:30-15:50
+*M=Monday, T=Tuesday, W=Wednesday, R=Thursday, F=Friday.
+Withdrawal without reduction of tuition fees: 2026-05-18
+Withdrawal with 50% reduction of tuition fees: 2026-06-07
+Last day for withdrawal (no fees returned): 2026-07-01
+Instructor(s), Contact Information, and Office Hours
+Name: Hausi Muller
+Office: ECS 614
+Phone: 250-472-5719
+Email: hausi@uvic.ca
+Office Hours:
+Tue, 11:45 a.m. - 12:30 p.m.
+Wed, 11:45 a.m. - 12:30 p.m.
+Accessible Learning
+The University of Victoria is committed to creating a learning experience that is as accessible as possible. If you are registered with the Centre for
+Accessible Learning and anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me. If
+you are a student with a disability or chronic health condition, you can meet with a CAL advisor to discuss access and accommodations.
+How to contact CAL: https://www.uvic.ca/accessible-learning/students/how-to-register/index.php.
+Academic Concessions
+The university recognizes its responsibility to offer academic concessions to students whose ability to complete course requirements is interrupted
+by unexpected and unavoidable circumstances or conflicting responsibilities.
+Review the Academic Concession Regulation:
+https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/HJjAxiGO4?bc=true&bcCurrent=11%20-
+%20Academic%20Concessions&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies
+and web site:
+https://www.uvic.ca/students/academics/academic-concessions-accommodations/request-for-academic-concession/index.php#ipn-undergraduaterequests-
+for-academic-concession.
+Course Overview
+Software engineering is a disciplined approach to software development grounded in a core set of concepts, techniques, and tools. Software
+engineers must learn and practice these fundamentals, especially when collaborating with others on software projects. This course provides a
+foundation in software engineering for higher-level courses and co-op positions, including an introduction to the effective and responsible use of
+generative AI and agentic AI in software development practice.
+This course requires reliable, consistent access to a desktop or laptop with at least 8GB of RAM and at least 250 GB of disk space. Information on
+student numbers, student grades, and submitted work will be stored in file systems and computers under the physical control of UVic.
+Topics
+The topics covered by this course will include:
+Linux command-line basics with Bash
+Linux shell scripts
+Git version control system
+Jupyter Notebooks
+C programming language
+Dynamic data structures in C
+Python 3 programming language and libraries
+Generative AI
+Agentic AI
+Libraries and frameworks for software development
+Multi-version software development
+Build tools
+Incremental software development and testing
+Software evolution and the software life cycle
+Textbooks
+This course has no required text. All resources required for this course will be posted on the Brightspace course website.
+Course Objectives and Learning Outcomes
+Students successfully completing SENG 265 will be able to:
+Describe basic software-engineering concepts
+Construct solutions for problems using the programming language C
+Use scripting languages, libraries and frameworks to improve software productivity.
+Employ the bash-shell and the Linux operating system in the work of developing software
+Construct solutions for problems using the programming language Python 3
+Learn incremental software development techniques
+Learn object-oriented programming using Python 3
+Learn Python 3 decorators
+Generate C and Python code using generative AI
+Organize development work using software-configuration management tools such as git and make
+Explain the purpose of a software-development process
+Investigate the dynamic behavior of C programs
+Identify and outline the test cases needed to give confidence in the correctness of a software-development artifact
+Labs
+There will be 9 (nine) labs. Attending labs is mandatory.
+We encourage you to augment your learning with external resources (e.g., textbooks, educational Websites, forums, etc.). However, you can use
+these resources only for learning about the problem high-level solution strategies. You must develop your concrete solutions independently.
+The use of an editor or tutor, either paid or unpaid, to correct or augment your work is strictly prohibited.
+Course Materials on Brightspace
+Lecture notes, Lab notes, quiz and assignment resources will be available through Brightspace and in the UVic Faculty of Engineering and Computer
+Science software development environment for SENG 265.
+Assignments
+There will be 5 (five) programming assignments.
+This schedule is subject to change. Please consult the course webpage for accurate due dates.
+You should start assignments early enough to allow time to seek help if you encounter difficulties.
+Students are encouraged to discuss assignment problems with each other and form study groups. However, final assignment submissions must be
+generated independently, and you will only receive credit for your own work. We encourage you to augment your learning with external resources
+(e.g., textbooks, educational websites, forums, etc.). However, you can use these resources only for learning about the problem high-level solution
+strategies. You must develop your concrete solution independently. On some assignments, however, you may be permitted to use material from
+other sources with proper attribution. Submitting the work of others without proper acknowledgement will be considered a serious academic
+offense and may result in failure of the course.
+The use of an editor or tutor, either paid or unpaid, to correct or augment your work is strictly prohibited.
+Please consult the instructor if you are unsure whether or not you are following these guidelines when working on an assignment.
+Term Portfolio Project
+Term Portfolio Project
+There will be a Term Portfolio project in the form of a Jupyter notebook. This Jupyter notebook will document the learning outcomes of this course,
+especially the different software engineering methods and tools. This portfolio could be used for future co-op and job applications.
+The Term Portfolio project consists of two parts as follows:
+Exams & Quizzes
+There will be three quizzes on Brightspace and a final exam during the University-scheduled final exam period. Each of the three quizzes will be
+administered using Brightspace. The final exam is an in-person, closed-book, no phones, no watches, no calculators, no gadgets, one
+formula sheet (front and back) exam. Attending the final exam in person is required to pass the course.
+Missed exams:
+Normally, a missed quiz will be given a zero mark.
+Academic concession for a missed quiz is granted in extenuating circumstances (i.e., illness) only if the following is provided to the course
+instructor:
+Notification by e-mail from your uvic.ca e-mail account sent to the instructor's uvic.ca e-mail account before the date/time of
+the exam.
+Some form of documentation or concrete explanation to support the extenuating circumstances.
+For courses with final exams, students are strongly advised not to make final plans for travel or employment during the exam period, as special
+arrangements will not be made for examinations that may conflict with such plans.
+In the event that you cannot write the final exam due to unexpected and unavoidable circumstances or conflicting responsibilities (as described here
+- https://www.uvic.ca/students/academics/academic-concessions-accommodations/request-for-academic-concession/index.php) then you must
+submit a request for a deferral ( https://www.uvic.ca/students/academics/academic-concessions-accommodations/request-for-academicconcession/
+index.php#ipn-request-a-deferral) to Student Support Services after the final grades have been submitted.
+Lecture & Lab Participation
+This course will be delivered in person. Attendance and participation in the lectures and the labs are mandatory. Therefore, students are expected to
+be physically present in the lecture room and in the lab room of their registered lab.
+Lab attendance is monitored and is worth 6%.
+Lecture attendance is monitored and is worth 6%.
+All students are expected to fully engage and participate in the lectures and labs of this course.
+Grading
+The coursework consists of six major components: Assignments, Final Exam, Quizzes, Lab Attendance, Lecture Attendance, and the Term Portfolio
+Projects (Part 1 & Part 2)..
+In order to pass the course, students must
+obtain a passing grade on the weighted average of the five assignments,
+obtain a passing grade on the weighted average of the three quizzes and the final exam.
+obtain a passing grade on the weighted average of the two term-portfolio-project submissions, and
+complete the final exam.
+Of these course requirements, the assignment requirement and the final exam requirement are the most challenging to satisfy.
+The marks for lab and lecture attendance are based on in-person attendance, engagement, and participation.
+Students are strongly advised not to make final plans for travel or employment during the exam period, as special arrangements will not be made for
+examinations that may conflict with these plans.
+Term Schedule
+The term schedule will be available on Brightspace, with lecture topics, proposed readings and assignments' due dates. The schedule is subject to
+changes during the term.
+Posting of Grades
+Typically marks for assignments, examinations, and provisional final grades are made available through a Learning Management System (LMS) like
+Brightspace, where each student will be able to view only their own grades. Sometimes numerical marks/grades may be posted publicly to the entire
+class. In that case, full student numbers or names will not be included with the posted information.
+Csc Student Groups
+The Engineering & Computer Science Students' Society (ECSS) serves all students registered in an Engineering and Computer Science degree
+program, including Software Engineering (BSEng). For information on ECSS activities, events and services navigate to
+https://sites.google.com/view/uvic-ecss/.
+Course Policies And Guidelines
+Late Assignments: No late assignments will be accepted unless prior arrangements have been made with the instructor at least 48 hours before
+the assignment due date.
+Coursework Mark Appeals: Appeals of marks for coursework will only be considered if received within 7 days of the mark being posted.
+Attendance: We expect students attend all lectures and labs. It is entirely the students' responsibility to recover any information or announcements
+presented in lectures from which they were absent.
+Electronic devices in labs and lectures: No unauthorized audio or video recording of lectures is permitted.
+Electronic devices in midterms and exams: Calculators are only permitted for examinations and tests if explicitly authorized and the type of
+calculator permitted may be restricted. No other electronic devices (e.g. cell phones, pagers, PDA, etc.) may be used during examinations or tests
+unless explicitly authorized.
+Plagiarism: Submitted work may be checked using plagiarism detection software. Cheating, plagiarism and other forms of academic fraud are taken
+very seriously by both the University and the Department. You should consult the link given below for the UVic policy on academic integrity. Note that
+the university policy includes the statement that "A largely or fully plagiarized assignment should result in a grade of F for the course."
+The Faculty of Engineering and Computer Science Standards for Professional Behaviour are at https://www.uvic.ca/ecs/_assets/docs/studentforms/
+professional-behaviour.pdf
+U.Vic guidelines and policy concerning fraud and academic integrity are at http://web.uvic.ca/calendar/undergrad/info/regulations/academicintegrity.
+html
+U. Vic Privacy Policy: If any student has concerns about their private information being stored or accessed outside of Canada, they are required to
+inform the course instructor about their concerns before the end of second week of classes.
+Grading System
+The University of Victoria follows a percentage grading system in which the instructor will submit grades in percentages. The University will use the
+following Senate approved standardized grading scale to assign letter grades. Both the percentage mark and the letter grade will be recorded on the
+academic record and transcripts.
+F D C C+ B- B B+ A- A A+
+0-49 50-59 60-64 65-69 70-72 73-76 77-79 80-84 85-89 90-100
+Grades Description
+A+, A,
+AExceptional,
+outstanding or excellent performance. Normally achieved by a minority of students. These grades indicate a student who is
+self-initiating, exceeds expectation and has an insightful grasp of the subject matter.
+B+, B,
+BVery
+good, good or solid performance. Normally achieved by the largest number of students. These grades indicate a good grasp of the
+subject matter or excellent grasp in one area balanced with satisfactory grasp in the other areas.
+C+, C Satisfactory, or minimally satisfactory. These grades indicate a satisfactory performance and knowledge of the subject matter.
+D Marginal Performance. A student receiving this grade demonstrated a superficial grasp of the subject matter.
+F Unsatisfactory performance. Wrote final examination and completed course requirements; no supplemental.
+Student Experience of Learning (SEL)
+I value your feedback on this course. Towards the end of term you will have the opportunity to complete a confidential Student Experience of Learning
+(SEL) survey regarding your learning experience. The survey is vital to providing feedback to me regarding the course and my teaching, as well as to
+help the department improve the overall program for students in the future. When it is time for you to complete the survey, you will receive an email
+inviting you to do so. If you do not receive an email invitation, you can go directly to the SEL site
+You will need to use your UVic NetLink ID to access the survey, which can be done on your laptop, tablet or mobile device. I will remind you closer to
+the time, but please be thinking about this important activity, especially the following three questions, during the course.
+What strengths did your instructor demonstrate that helped you learn in this course?
+Please provide specific suggestions as to how the instructor could have helped you learn more effectively.
+Please provide specific suggestions as to how this course could be improved.
+Equality
+This course aims to provide equal opportunities and access for all students to enjoy the benefits and privileges of the class and its curriculum and to
+meet the syllabus requirements. Reasonable and appropriate accommodation will be made available to students with documented disabilities (physical,
+mental, learning) in order to give them the opportunity to successfully meet the essential requirements of the course. The accommodation will not alter
+academic standards or learning outcomes, although the student may be allowed to demonstrate knowledge and skills in a different way. It is not
+necessary for you to reveal your disability and/or confidential medical information to the course instructor. If you believe that you may require
+accommodation, the course instructor can provide you with information about confidential resources on campus that can assist you in arranging for
+appropriate accommodation. Alternatively, you may want to contact the Centre for Accessible Learning located in the Campus Services Building.
+The University of Victoria is committed to promoting, providing, and protecting a positive, and supportive and safe learning and working environment for
+all its members.
+Resources for students
+a. UVicLearn is the primary learning resource for students that offers many learning workshops and resources to help students with academics and
+learning strategies.
+b. Library resources
+c. Indigenous Student Services (ISS)
+d. Academic Skills Centre (ASC)
+e. Math & Stats Assistance Centre (MSAC)
+f. Learning Assistance Program (LAP)
+g. Community-Engaged Learning (CEL)
+h. Learning in Motion - Co-op and Career Portal
+i. Academic concession
+j. Academic accommodation
+k. Academic accommodation & access for students with disabilities
+l. Student groups and resources
+m. Student wellness
+n. Ombudsperson
+University statements and policies
+a. University Calendar - Information for all students
+b. Accommodation of Religious Observance
+c. Student Conduct
+d. Non-academic Student Misconduct
+e. Academic Accommodations and Accessibility
+f. Diversity / EDI – VPAC commitment
+g. Sexualized Violence Prevention and Response
+h. Discrimination and Harassment
+Copyright Statement
+All course content and materials are made available by instructors for educational purposes and for the exclusive use of students registered in their
+class. The material is protected under copyright law, even if not marked with a ©. Any further use or distribution of materials to others requires the
+written permission of the instructor, except under fair dealing or another exception in the Copyright Act. Violations may result in disciplinary action under
+the Resolution of Non-Academic Misconduct Allegations policy (AC1300).
