@@ -1,18 +1,218 @@
-<!-- index.html -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SENG265</title>
+    <title>SENG 265: Software Development Methods - Summer 2026</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
-    <div class="container">
-        <h1>Hello SENG265 Summer 2026!</h1>
-        <p>Welcome to the course. This was our first week.</p>
-    </div>
+    <header>
+        <h1>SENG 265: Software Development Methods</h1>
+        <p>Summer 2026 - University of Victoria</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#overview">Course Overview</a></li>
+            <li><a href="#dates">Key Dates & Schedule</a></li>
+            <li><a href="#instructor">Instructor</a></li>
+            <li><a href="#topics">Topics</a></li>
+            <li><a href="#objectives">Objectives & Outcomes</a></li>
+            <li><a href="#labs">Labs</a></li>
+            <li><a href="#assignments">Assignments</a></li>
+            <li><a href="#project">Term Portfolio Project</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="overview">
+            <h2>Course Overview</h2>
+            <p>Software engineering is a disciplined approach to software development grounded in a core set of concepts, techniques, and tools. Software engineers must learn and practice these fundamentals, especially when collaborating with others on software projects. This course provides a foundation in software engineering for higher-level courses and co-op positions, including an introduction to the effective and responsible use of generative AI and agentic AI in software development practice.</p>
+            <p>This course requires reliable, consistent access to a desktop or laptop with at least 8GB of RAM and at least 250 GB of disk space. Information on student numbers, student grades, and submitted work will be stored in file systems and computers under the physical control of UVic.</p>
+        </section>
+
+        <section id="dates">
+            <h2>Key Dates and Schedules</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Section</th>
+                        <th>CRN</th>
+                        <th>Schedule</th>
+                        <th>Location</th>
+                        <th>Class Start</th>
+                        <th>Class End</th>
+                        <th>Days</th>
+                        <th>Hours</th>
+                        <th>Instructor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>A01</td>
+                        <td>30802</td>
+                        <td>Lecture</td>
+                        <td>CLE C112</td>
+                        <td>2026-05-06</td>
+                        <td>2026-08-17</td>
+                        <td>TWF</td>
+                        <td>10:30-11:20</td>
+                        <td>Hausi Muller</td>
+                    </tr>
+                    <tr>
+                        <td>A01</td>
+                        <td>30802</td>
+                        <td>Lecture</td>
+                        <td>ECS 108</td>
+                        <td>2026-05-06</td>
+                        <td>2026-08-17</td>
+                        <td>TWF</td>
+                        <td>10:30-11:20</td>
+                        <td>Hausi Muller</td>
+                    </tr>
+                    <tr>
+                        <td>A02</td>
+                        <td>30803</td>
+                        <td>Lecture</td>
+                        <td>CLE C112</td>
+                        <td>2026-05-06</td>
+                        <td>2026-08-17</td>
+                        <td>TWF</td>
+                        <td>10:30-11:20</td>
+                        <td>Hausi Muller</td>
+                    </tr>
+                    <tr>
+                        <td>A02</td>
+                        <td>30803</td>
+                        <td>Lecture</td>
+                        <td>ECS 108</td>
+                        <td>2026-05-06</td>
+                        <td>2026-08-17</td>
+                        <td>TWF</td>
+                        <td>10:30-11:20</td>
+                        <td>Hausi Muller</td>
+                    </tr>
+                    <tr>
+                        <td>B02</td>
+                        <td>30805</td>
+                        <td>Lab</td>
+                        <td>ELW B238</td>
+                        <td>2026-05-06</td>
+                        <td>2026-08-17</td>
+                        <td>R</td>
+                        <td>14:30-15:50</td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>*M=Monday, T=Tuesday, W=Wednesday, R=Thursday, F=Friday.</p>
+            <p>Withdrawal without reduction of tuition fees: 2026-05-18</p>
+            <p>Withdrawal with 50% reduction of tuition fees: 2026-06-07</p>
+            <p>Last day for withdrawal (no fees returned): 2026-07-01</p>
+        </section>
+
+        <section id="instructor">
+            <h2>Instructor(s), Contact Information, and Office Hours</h2>
+            <div class="instructor-card">
+                <h3>Hausi Muller</h3>
+                <p>Office: ECS 614</p>
+                <p>Phone: 250-472-5719</p>
+                <p>Email: <a href="mailto:hausi@uvic.ca">hausi@uvic.ca</a></p>
+                <p>Office Hours:</p>
+                <ul>
+                    <li>Tue, 11:45 a.m. - 12:30 p.m.</li>
+                    <li>Wed, 11:45 a.m. - 12:30 p.m.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="acknowledgement">
+            <h2>Territory Acknowledgement</h2>
+            <p>We acknowledge and respect the Lək̓ʷəŋən (Songhees and Xʷsepsəm/Esquimalt) Peoples on whose territory the university stands, and the Lək̓ʷəŋən and W̱SÁNEĆ Peoples whose historical relationships with the land continue to this day.</p>
+        </section>
+
+        <section id="accessible">
+            <h2>Accessible Learning</h2>
+            <p>The University of Victoria is committed to creating a learning experience that is as accessible as possible. If you are registered with the Centre for Accessible Learning and anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me. If you are a student with a disability or chronic health condition, you can meet with a CAL advisor to discuss access and accommodations.</p>
+            <p>How to contact CAL: <a href="https://www.uvic.ca/accessible-learning/students/how-to-register/index.php">https://www.uvic.ca/accessible-learning/students/how-to-register/index.php</a>.</p>
+        </section>
+
+        <section id="concessions">
+            <h2>Academic Concessions</h2>
+            <p>The university recognizes its responsibility to offer academic concessions to students whose ability to complete course requirements is interrupted by unexpected and unavoidable circumstances or conflicting responsibilities.</p>
+            <p>Review the Academic Concession Regulation: <a href="https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/HJjAxiGO4?bc=true&bcCurrent=11%20-%20Academic%20Concessions&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies">https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/HJjAxiGO4?bc=true&bcCurrent=11%20-%20Academic%20Concessions&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies</a></p>
+            <p>and web site: <a href="https://www.uvic.ca/students/academics/academic-concessions-accommodations/request-for-academic-concession/index.php#ipn-undergraduaterequests-for-academic-concession">https://www.uvic.ca/students/academics/academic-concessions-accommodations/request-for-academic-concession/index.php#ipn-undergraduaterequests-for-academic-concession</a>.</p>
+        </section>
+
+        <section id="topics">
+            <h2>Topics</h2>
+            <ul>
+                <li>Linux command-line basics with Bash</li>
+                <li>Linux shell scripts</li>
+                <li>Git version control system</li>
+                <li>Jupyter Notebooks</li>
+                <li>C programming language</li>
+                <li>Dynamic data structures in C</li>
+                <li>Python 3 programming language and libraries</li>
+                <li>Generative AI</li>
+                <li>Agentic AI</li>
+                <li>Libraries and frameworks for software development</li>
+                <li>Multi-version software development</li>
+                <li>Build tools</li>
+                <li>Incremental software development and testing</li>
+                <li>Software evolution and the software life cycle</li>
+            </ul>
+        </section>
+
+        <section id="objectives">
+            <h2>Course Objectives and Learning Outcomes</h2>
+            <p>Students successfully completing SENG 265 will be able to:</p>
+            <ul>
+                <li>Describe basic software-engineering concepts</li>
+                <li>Construct solutions for problems using the programming language C</li>
+                <li>Use scripting languages, libraries and frameworks to improve software productivity.</li>
+                <li>Employ the bash-shell and the Linux operating system in the work of developing software</li>
+                <li>Construct solutions for problems using the programming language Python 3</li>
+                <li>Learn incremental software development techniques</li>
+                <li>Learn object-oriented programming using Python 3</li>
+                <li>Learn Python 3 decorators</li>
+                <li>Generate C and Python code using generative AI</li>
+                <li>Organize development work using software-configuration management tools such as git and make</li>
+                <li>Explain the purpose of a software-development process</li>
+                <li>Investigate the dynamic behavior of C programs</li>
+                <li>Identify and outline the test cases needed to give confidence in the correctness of a software-development artifact</li>
+            </ul>
+        </section>
+
+        <section id="labs">
+            <h2>Labs</h2>
+            <p>There will be 9 (nine) labs. Attending labs is mandatory.</p>
+            <p>We encourage you to augment your learning with external resources (e.g., textbooks, educational Websites, forums, etc.). However, you can use these resources only for learning about the problem high-level solution strategies. You must develop your concrete solutions independently.</p>
+            <p>The use of an editor or tutor, either paid or unpaid, to correct or augment your work is strictly prohibited.</p>
+            <p>Course Materials on Brightspace: Lecture notes, Lab notes, quiz and assignment resources will be available through Brightspace and in the UVic Faculty of Engineering and Computer Science software development environment for SENG 265.</p>
+        </section>
+
+        <section id="assignments">
+            <h2>Assignments</h2>
+            <p>There will be 5 (five) programming assignments.</p>
+            <p>This schedule is subject to change. Please consult the course webpage for accurate due dates.</p>
+            <p>You should start assignments early enough to allow time to seek help if you encounter difficulties.</p>
+            <p>Students are encouraged to discuss assignment problems with each other and form study groups. However, final assignment submissions must be generated independently, and you will only receive credit for your own work. We encourage you to augment your learning with external resources (e.g., textbooks, educational websites, forums, etc.). However, you can use these resources only for learning about the problem high-level solution strategies. You must develop your concrete solution independently. On some assignments, however, you may be permitted to use material from other sources with proper attribution. Submitting the work of others without proper acknowledgement will be considered a serious academic offense and may result in failure of the course.</p>
+            <p>The use of an editor or tutor, either paid or unpaid, to correct or augment your work is strictly prohibited.</p>
+            <p>Please consult the instructor if you are unsure whether or not you are following these guidelines when working on an assignment.</p>
+        </section>
+
+        <section id="project">
+            <h2>Term Portfolio Project</h2>
+            <p>There will be a Term Portfolio project in the form of a Jupyter notebook. This Jupyter notebook will document the learning outcomes of this course.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 University of Victoria. SENG 265 Summer 2026.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
 </body>
-</html
+</html>
